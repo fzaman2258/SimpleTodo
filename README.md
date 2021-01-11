@@ -33,8 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-*Dragging and dropping the widgets onto the layout wasn't the most smooth procedure.
-*When using FileUtils to read and write lines, we have to specify it is from org.apache.commons.io when it autocompletes.
+* Dragging and dropping the widgets onto the layout wasn't the most smooth procedure.
+* When using FileUtils to read and write lines, we have to specify it is from org.apache.commons.io when it autocompletes.
 
 ## License
 
